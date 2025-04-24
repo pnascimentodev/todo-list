@@ -54,9 +54,12 @@ Este projeto está configurado para deploy automático no Railway.
 
 A documentação completa da API está disponível através do Swagger UI:
 
-- Local: `http://localhost:8080/swagger-ui.html`
-- Produção: `https://[SEU-DOMINIO]/swagger-ui.html`
+- Local: `http://localhost:8080/swagger-ui.html`  
 
-## 📄 Licença
+<br>
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes. 
+<div align="center">
+  <a href="https://www.linkedin.com/in/devpnascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
